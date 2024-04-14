@@ -55,3 +55,8 @@ Includes password hashing and session management for enhanced security.
 Hides password while typing for enhanced security.
 Registering for classes/personal training automatically sends a payment.
 When looking for the list of classes, it will hide the classes that occurred in the past.
+
+
+Demo Video Link:
+
+https://youtu.be/hTSKK7VPtUM
