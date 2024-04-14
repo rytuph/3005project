@@ -81,7 +81,7 @@ def login():
                     trainer_menu(user_id)
                     pass
                 elif role == 'Admin':
-                    admin_menu(user_id)
+                    admin_menu()
                     pass
             else:
                 print("Login failed. Please check your email and password.")
