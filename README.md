@@ -9,16 +9,15 @@ PostgreSQL 12 or higher
 psycopg2 library
 
 Setup
-Clone the repository: ------------------------------------------------------ enter link ---------------------------------------
--- paste github link here
+Clone the repository:
 
-cd main -------------------
+cd into project
 
 Database Configuration
 
 Create a PostgreSQL database for the project.
 Run the SQL scripts found in the SQL directory to set up the database schema and populate it with initial data.
-Update the database connection settings in config.py (create this file based on config.sample.py) ----------------------
+Update the database connection settings in connect_to_db() in main.py
 
 Usage
 Run the application from the command line:
