@@ -86,5 +86,3 @@ CREATE TABLE Payments (
     PaymentDate TIMESTAMP,
     ServiceType VARCHAR(100) -- e.g., Membership Fee, Personal Training Session
 );
-
-CREATE INDEX idx_member_email ON Members(Email);
