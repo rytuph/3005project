@@ -53,4 +53,5 @@ The following features were implemented to enhance the standard functionalities,
 Ensured trainers are not double-booked and respects their available hours.
 Includes password hashing and session management for enhanced security.
 Hides password while typing for enhanced security.
+Registering for classes/personal training automatically sends a payment.
 
